@@ -1,0 +1,5 @@
+Credentials cache: API:928E4061-0702-4F03-8885-A6CF544F912B
+        Principal: makhtar@42ABUDHABI.AE
+
+  Issued                Expires               Principal
+May 16 19:22:17 2021  May 17 05:22:10 2021  krbtgt/42ABUDHABI.AE@42ABUDHABI.AE
